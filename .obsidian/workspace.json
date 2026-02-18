@@ -11,14 +11,15 @@
             "id": "a9817ca9a7b85944",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "learn german A1.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "learn german A1"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Index)"
             }
           }
         ]
@@ -171,12 +172,12 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -195,14 +196,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e0ba38dbeb4a857",
+  "active": "a9817ca9a7b85944",
   "lastOpenFiles": [
+    "learn german A1.md",
     "New Text Document.txt",
     "deutchsland/README.md",
     "deutchsland",
     "README.md",
     "New Text Document.md",
-    "learn german A1.md",
     "new.md"
   ]
 }
